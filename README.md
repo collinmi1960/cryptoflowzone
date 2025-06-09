@@ -39,7 +39,7 @@ A curated list of essential cryptocurrency tools, guides, and resources shared b
 - Clone this repo:
 ```bash
 git clone https://github.com/YOURUSERNAME/CryptoTools2025.git
-
+```
 
 •	Submit a tool or update:
 git add tool.md
