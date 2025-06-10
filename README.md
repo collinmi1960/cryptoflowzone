@@ -11,6 +11,6 @@
 Trading Strategic guide 2      | [Bot C](https://cryptoflowzone.com/rekt-capital/)    | Strategic Trading tech analysis     | https://cryptoflowzone.com/rekt-capital/
 Trading Guide BiTBO      | [Bot C](https://cryptoflowzone.com/bitbo-power-law/)    | BiTBO Power Law for Bitcoin     | https://cryptoflowzone.com/bitbo-power-law/
 Bitcoin Magazine Pro     | [Bot C](https://www.bitcoinmagazinepro.com?ref=ngrjoth)    | MVRV Z score      | https://www.bitcoinmagazinepro.com?ref=ngrjoth
-ledger Nano X    | [Bot C](https://shop.ledger.com/?r=a67d9fbcd2cf)    | MVRV Z score      | https://shop.ledger.com/?r=a67d9fbcd2cf
+ledger Nano X    | [Bot C](https://shop.ledger.com/?r=a67d9fbcd2cf)    | Ledger Nano X      | https://shop.ledger.com/?r=a67d9fbcd2cf
 BitMex     | [Bot C](https://www.bitmex.com/app/trade/XBTUSD)    | Bitmex    | https://www.bitmex.com/app/trade/XBTUSD
 Bybit   | [Bot C](https://www.bybit.com/en/invite/?ref=VLGA1P3)  | Bybit    | https://www.bybit.com/en/invite/?ref=VLGA1P3 
