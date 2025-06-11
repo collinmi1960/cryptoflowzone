@@ -14,3 +14,6 @@ Bitcoin Magazine Pro     | [Bot C](https://www.bitcoinmagazinepro.com?ref=ngrjot
 ledger Nano X    | [Bot C](https://shop.ledger.com/?r=a67d9fbcd2cf)    | Ledger Nano X      | https://shop.ledger.com/?r=a67d9fbcd2cf
 BitMex     | [Bot C](https://www.bitmex.com/app/trade/XBTUSD)    | Bitmex    | https://www.bitmex.com/app/trade/XBTUSD
 Bybit   | [Bot C](https://www.bybit.com/en/invite/?ref=VLGA1P3)  | Bybit    | https://www.bybit.com/en/invite/?ref=VLGA1P3 
+
+
+BAM   | [Bot C](https://taplink.cc/blockassetmanagement/p/e15cbd/)  | BAM    | (https://taplink.cc/blockassetmanagement/p/e15cbd/)
